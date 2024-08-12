@@ -1,4 +1,5 @@
-# Checklist
+<details><summary>Checklist</summary>
+<p>
 
 ### Общее
 
@@ -29,3 +30,16 @@
 
 - [ ] Убран отладочный код
 - [ ] Используется `UPPERCASE` для констант
+
+</p>
+</details> 
+
+**Задача:** HH-123
+
+<details><summary>Результаты Stability testing</summary>
+<p>
+
+<!-- место для скриншота с результатами Stability -->
+
+</p>
+</details> 
