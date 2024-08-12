@@ -1,5 +1,4 @@
-<details><summary>Checklist</summary>
-<p>
+## Чеклист
 
 ### Общее
 
@@ -31,12 +30,13 @@
 - [ ] Убран отладочный код
 - [ ] Используется `UPPERCASE` для констант
 
-</p>
-</details> 
+## Описание
 
-**Задача:** HH-123
+**Задача:** https://jira.example.com/JIRA-123
 
-<details><summary>Результаты Stability testing</summary>
+## Stability testing
+
+<details><summary>Результаты</summary>
 <p>
 
 <!-- место для скриншота с результатами Stability -->
